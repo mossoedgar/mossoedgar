@@ -27,8 +27,12 @@ I am a Data Scientist/Engineer <img src="https://media.giphy.com/media/WUlplcMpO
   
 - :telescope: I’m working as a Data Scientist / Engineer and as a QA Data Analyst contributing to data pipelines for building web applications and data products.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Speaker - Mentor - Selflearner
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I like spending time developing new skills and riding my bicycle.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-EdgarMosso-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-mosso-b77b63136/)
+  
+- 🗣️: Ask me about anything. 
+
+- 👁️: Impossible is a word that's not existent in my vocabulary.
