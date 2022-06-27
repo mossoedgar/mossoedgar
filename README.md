@@ -25,10 +25,10 @@
 
 I am a Data Scientist/Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cancun, MX.
   
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Data Scientist / Engineer and as a QA Data Analyst contributing to data pipelines for building web applications and data products.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Edgar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-mosso-b77b63136/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-EdgarMosso-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-mosso-b77b63136/)
