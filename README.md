@@ -24,7 +24,7 @@
 
 I am a Data Scientist/Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from Cancun, MX.
 
-- :telescope: I’m working as a Data Scientist / Engineer and as a QA Data Analyst contributing to data pipelines for building web applications and data products.
+- :telescope: I’m working as a Data Scientist / Engineer and as a QA Data Analyst contributing to data pipelines for building web applications and data products for corporations and starups.
 
 - :seedling: Speaker, Mentor, Selflearner.
 
