@@ -20,24 +20,22 @@
 </div>
   
 ---
-  
-<div>
 
-  ### 👨‍💻 About Me :
+### 👨‍💻 About Me :
 
 
-  I am a Data Scientist/Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from Cancun, MX.
+I am a Data Scientist/Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from Cancun, MX.
 
-  - :telescope: I’m working as a Data Scientist / Engineer and as a QA Data Analyst contributing to data pipelines for building web applications and data products.
+- :telescope: I’m working as a Data Scientist / Engineer and as a QA Data Analyst contributing to data pipelines for building web applications and data products.
 
-  - :seedling: Speaker - Mentor - Selflearner
+- :seedling: Speaker, Mentor, Selflearner
 
-  - :zap: In my free time, I like spending time developing new skills and riding my bicycle.
+- :zap: In my free time, I like spending time developing new skills and riding my bicycle.
 
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-EdgarMosso-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-mosso-b77b63136/)
+- 🗣️ Ask me about anything. If I don't know about it 
 
-  - 🗣️ Ask me about anything. 
+- 👁️ Impossible is a word that's not existent in my vocabulary.
 
-  - 👁️ Impossible is a word that's not existent in my vocabulary.
+- :mailbox: How to reach me: 
 
-</div>
+[![Linkedin](https://img.shields.io/badge/-EdgarMosso-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-mosso-b77b63136/) 
