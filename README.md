@@ -10,11 +10,9 @@
 <div id="center_items" align="center">
   <img src="https://komarev.com/ghpvc/?username=mossoedgar&style=flat-square&color=blue" alt=""/>
 </div> 
- 
 <h1 align="center">
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="150"/>
 </h1>
-  
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
 </div>
