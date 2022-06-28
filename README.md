@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="150"/>
 </div>
 
 <div id="badges" align="center">
@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="150"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 </div>
   
 ---
@@ -26,11 +26,11 @@ I am a Data Scientist/Engineer <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :telescope: I’m working as a Data Scientist / Engineer and as a QA Data Analyst contributing to data pipelines for building web applications and data products.
 
-- :seedling: Speaker, Mentor, Selflearner
+- :seedling: Speaker, Mentor, Selflearner.
 
 - :zap: In my free time, I like spending time developing new skills and riding my bicycle.
 
-- 🗣️ Ask me about anything. If I don't know about it 
+- 🗣️ Ask me about anything. If I don't know about it I will.
 
 - 👁️ Impossible is a word that's not existent in my vocabulary.
 
